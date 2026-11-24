@@ -1,0 +1,14 @@
+queue-tips:
+  - "Fiesta is under active maintenance; lag may happen while work continues."
+  - "Players can join while the maintenance warning is active."
+  - "The main server has room for up to 20 players."
+  - "Your place in line is shown in the action bar."
+  - "Use /leavequeue if you want to leave the waiting room."
+  - "Waiting-room PvP is active; you get a fresh iron kit after respawning."
+  - "The waiting-world inventory is separate from the main-world inventory."
+  - "This lobby is a small, flat End-style island."
+
+stats:
+  coordinator-url: ""
+  node-id: ""
+  hmac-key-hex: ""

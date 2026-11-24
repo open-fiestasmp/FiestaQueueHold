@@ -1,0 +1,9 @@
+/build/
+/target/
+/out/
+/logs/
+*.jar
+*.class
+*.log
+*.jsonl
+config.yml
